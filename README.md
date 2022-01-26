@@ -31,7 +31,7 @@ b=int(input())
 print("Square root of the number:",newton_method(b))
 
 ## Output:
-![output](.//square root.png)
+![output](.//square.png)
 
 
 
